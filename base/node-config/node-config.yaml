@@ -9,9 +9,5 @@ metadata:
   creationTimestamp: "2025-04-21T06:12:31Z"
   generation: 1
   name: cluster
-  ownerReferences:
-  - apiVersion: config.openshift.io/v1
-    kind: ClusterVersion
-    name: version
 spec: {}
 
