@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
 - node-config/node-config.yaml
 - scheduler/scheduler-config.yaml
-- network/cluster-network.yaml
