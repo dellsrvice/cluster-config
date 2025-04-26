@@ -9,5 +9,6 @@ metadata:
   creationTimestamp: "2025-04-21T06:12:31Z"
   generation: 1
   name: cluster
-spec: {}
+spec: 
+  cgroupMode: v1
 
