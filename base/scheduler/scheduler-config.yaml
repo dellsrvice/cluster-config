@@ -2,7 +2,7 @@ apiVersion: config.openshift.io/v1
 kind: Scheduler
 metadata:
   name: cluster
-  resourceVersion:720391
+  resourceVersion: 720391
 spec:
   mastersSchedulable: false
   policy:
