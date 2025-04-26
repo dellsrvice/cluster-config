@@ -3,6 +3,7 @@ kind: Scheduler
 metadata:
   generation: 1
   name: cluster
+  resourceVersion: 447
 spec:
   mastersSchedulable: false
   policy:
